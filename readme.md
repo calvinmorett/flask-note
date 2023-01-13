@@ -6,7 +6,7 @@ These sentences and clauses are often juxtaposed or placed side by side, rather 
 ---
 
 e.g. From the book, `The Book of Five Rings` by `Miyamoto Musashi`
-- The Book of Earth ends with nine basic principles – the "ground" upon which the samurai must rely. The principles are:
+The Book of Earth ends with nine basic principles – the "ground" upon which the samurai must rely. The principles are:
 - "Do not think dishonestly."
 - "The Way is in training."
 - "Become acquainted with every art."
