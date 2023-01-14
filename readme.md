@@ -1,3 +1,4 @@
+# flask note
 This was created to allow me to create an advice book using a parataxis writing style.
 
 Parataxis is a literary technique where the author uses short, simple sentences and clauses to convey meaning and ideas.
