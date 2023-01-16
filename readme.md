@@ -1,4 +1,5 @@
-[!flasknote.png]
+![flasknote](/flasknote.png)
+
 
 # flask note
 This was created to allow me to create an advice book using a parataxis writing style.
